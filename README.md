@@ -38,7 +38,7 @@ Key business questions were answered using SQL queries:
 ### 3. Dashboard & Visualization (Power BI)
 An interactive dashboard was built to visualize the findings.
 
-![Power BI Dashboard](dashboard_image.png)
+![Power BI Dashboard](Dashboard_Image.png)
 *(Note: Please refer to the 'dashboard_image.png' in the repo to see the full visualization)*
 
 **Key Dashboard Metrics:**
